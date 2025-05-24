@@ -14,7 +14,9 @@ st.set_page_config(
 )
 
 st.title("Dashboard: Trends, News, Research & YouTube Videos")
+
 st.write("E-MBA Cohort-2 Term-8 Final Project by Doshi Ghatana Mukeshkumar 23812027")
+
 st.markdown("### (All sections use a single search input)")
 
 # ============================================
@@ -182,4 +184,11 @@ if search_query:
         else:
             st.write("No YouTube videos found.")
 
+
+
+
+
+
+
+#----Footter----
 st.write("E-MBA Cohort-2 Term-8 Final Project by Doshi Ghatana Mukeshkumar 23812027")
